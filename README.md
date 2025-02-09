@@ -5,6 +5,7 @@ The goal of this project is to automate the extraction, transformation, and stor
 
 Business Requirement 
 << Perform the below task 1st on-premise and then on GCP >>
+
 1️⃣ Data Import ( xx:xx AM Daily)
 Load the last available probability data from the previous day's final consolidated CSV.
 This data will serve as the baseline for computing differences throughout the day.
